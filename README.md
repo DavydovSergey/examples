@@ -1,2 +1,2 @@
-# examples
+# Examples
 Some examples in java
